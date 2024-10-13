@@ -1,5 +1,3 @@
-# GitHubActions_Basics
-
 # Steps to Create a GitHub Workflow
 
 **Step 1:** Sign up and log in to [GitHub.com](https://github.com).
@@ -25,8 +23,8 @@ jobs:
       - name: my-hello-world
         run: echo "hello world"
 
-Step 6: Commit and push the changes.
-a
-Step 7: Go to the repository main page and click the “Actions” tab.
+**Step 6:** Commit and push the changes.
 
-Step 8: Select the workflow from the left sidebar and check the logs and results.
+**Step 7:** Go to the repository main page and click the “Actions” tab.
+
+**Step 8:** Select the workflow from the left sidebar and check the logs and results.
