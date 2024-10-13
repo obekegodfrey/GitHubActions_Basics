@@ -23,7 +23,8 @@ jobs:
       - name: my-hello-world
         run: echo "hello world"
 
-**Step 6:** Commit and push the changes.
+
+##**Step 6:** Commit and push the changes.
 
 **Step 7:** Go to the repository main page and click the “Actions” tab.
 
